@@ -1,11 +1,10 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rakibul-98&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-98" /> </p>
-
-### Hi there 👋, I'm Rakibul Hasan
+### Hi 👋, I'm Rakibul Hasan
 #### Full-stack web developer
-![Full-stack web developer]()
+![](https://github.com/Rakibul-98/Rakibul-98/blob/main/Capture.PNG)
 
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=rakibul-98&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-98" /> </p>
 I'm a professional full stack developer. I have a strong foundation in web development technologies and I can work closely with designers and other developers to create high-quality web applications. I am keeping up with the latest web development trends and constantly learning new technologies to improve my skills.
-
+<h3></h3>
 
 - 🌱 I’m currently learning Next.js 
 - 📫 How to reach me: rakibul.hasan.private@gmail.com 
