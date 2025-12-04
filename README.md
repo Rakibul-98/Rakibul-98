@@ -10,11 +10,12 @@ I excel in creating high-quality web applications with a collaborative mindset a
 **Fullstack Developer** | Turning ideas into solutions with Typescript magic & server-side logic. Love clean code, solving puzzles, and making tech feel human. Frontend charm + backend muscle = stuff that works and feels good. Let’s create, not just code. 🛠️✨ 
 *"Simplicity is the ultimate sophistication."*  
 
-- 🌱 I’m currently learning Next.js 
+- 🌱 I’m currently learning AI/ML 
 - 📫 Reach me at: rakibul.hasan.private@gmail.com 
 - ⚡  Fun Fact: I speak fluent JavaScript and dream in curly braces.
 
 ### 🌟 Featured Projects  
+- **[Personal News Feed](https://personal-hud-client.vercel.app/)**: Personal HUD is a smart news aggregation platform that fetches content from different RSS feeds.
 - **[House Finder](https://house-finder-rakibul.vercel.app/)**: House Finder is a modern platform for finding and listing homes.
 - **[Bike Solution](https://bike-solution-rakibul.vercel.app/)**: A modern, responsive e-commerce platform for purchasing bikes. 
 
