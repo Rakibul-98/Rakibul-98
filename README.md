@@ -2,7 +2,7 @@
 ## Full-Stack web developer
 I excel in creating high-quality web applications with a collaborative mindset and a strong focus on performance optimization. I'm committed to staying current with the latest trends, resulting in robust solutions that add significant value to every project. When I'm not coding, you'll find me contributing to open-source projects or exploring new technologies.
 
-<img src="https://i.ibb.co.com/60qVxyz3/gh-banner.png" alt="Git Banner" />
+<img src="https://files.catbox.moe/r4nz7y.png" alt="Git Banner" />
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=rakibul-98&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-98" /> </p>
 
@@ -15,13 +15,14 @@ I excel in creating high-quality web applications with a collaborative mindset a
 - ⚡  Fun Fact: I speak fluent JavaScript and dream in curly braces.
 
 ### 🌟 Featured Projects  
+- **[Bebshaye](https://bebshaye.vercel.app/)**: Bebshaye is a three-tier digital ecosystem built for Bangladeshi dealers to replace paper-based operations.
 - **[Personal News Feed](https://personal-hud-client.vercel.app/)**: Personal HUD is a smart news aggregation platform that fetches content from different RSS feeds.
 - **[House Finder](https://house-finder-rakibul.vercel.app/)**: House Finder is a modern platform for finding and listing homes.
 - **[Bike Solution](https://bike-solution-rakibul.vercel.app/)**: A modern, responsive e-commerce platform for purchasing bikes. 
 
 ### 🛠️ Tech Stack  
 <!-- - **Frontend**: HTML, CSS, JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS, Bootstrap, Material UI, Shadcn, Chakra UI, Flowbite, Radix UI
-- **Backend**: JavaScript (ES6+), TypeScript, Python, Java, Node.js, Express.js, MongoDB, Mongoose, SQL, REST API, JWT, Zod  
+- **Backend**: JavaScript (ES6+), TypeScript, Python, Java, Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, Prisma, SQL, REST API, JWT, Zod  
 - **Tools**: Visual Studio Code, Git, GitHub, npm, Firebase, Netlify, Vercel, Figma, Postman, Chrome DevTools, React Developer Tools, Bugzilla
 - **Others**: Node Mailer, Stripe Payment, SSLCommerz -->
 
@@ -46,7 +47,7 @@ I excel in creating high-quality web applications with a collaborative mindset a
 <a href="https://linkedin.com/in/rakibul-98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibul-98" height="30" width="40" /></a>
 <a href="https://fb.com/rakibul.rupom2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibul.rupom2001" height="30" width="40" /></a>
 <a href="https://medium.com/@rakibul-98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rakibul-98" height="30" width="40" /></a>
-<a href="/https://portfolio-rakibul.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://portfolio-rakibul.netlify.app/" height="30" width="40" /></a>
+<a href="https://www.rakibulhasandev.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.rakibulhasandev.com/" height="30" width="40" /></a>
 </p>
 
 ## 📊 GitHub Stats
