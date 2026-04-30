@@ -1,60 +1,136 @@
-### Hi 👋, I'm Rakibul Hasan
-## Full-Stack web developer
-I excel in creating high-quality web applications with a collaborative mindset and a strong focus on performance optimization. I'm committed to staying current with the latest trends, resulting in robust solutions that add significant value to every project. When I'm not coding, you'll find me contributing to open-source projects or exploring new technologies.
+<div align="center">
 
-<img src="https://files.catbox.moe/r4nz7y.png" alt="Git Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=rakibul-98&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-98" /> </p>
+</div>
 
+<div align="">
+<h2 align="center">Hi, I'm Rakibul</h2>
 
-**Fullstack Developer** | Turning ideas into solutions with Typescript magic & server-side logic. Love clean code, solving puzzles, and making tech feel human. Frontend charm + backend muscle = stuff that works and feels good. Let’s create, not just code. 🛠️✨ 
-*"Simplicity is the ultimate sophistication."*  
-
-- 🌱 I’m currently learning AI/ML 
-- 📫 Reach me at: rakibul.hasan.private@gmail.com 
-- ⚡  Fun Fact: I speak fluent JavaScript and dream in curly braces.
-
-### 🌟 Featured Projects  
-- **[Bebshaye](https://bebshaye.vercel.app/)**: Bebshaye is a three-tier digital ecosystem built for Bangladeshi dealers to replace paper-based operations.
-- **[Personal News Feed](https://personal-hud-client.vercel.app/)**: Personal HUD is a smart news aggregation platform that fetches content from different RSS feeds.
-- **[House Finder](https://house-finder-rakibul.vercel.app/)**: House Finder is a modern platform for finding and listing homes.
-- **[Bike Solution](https://bike-solution-rakibul.vercel.app/)**: A modern, responsive e-commerce platform for purchasing bikes. 
-
-### 🛠️ Tech Stack  
-<!-- - **Frontend**: HTML, CSS, JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS, Bootstrap, Material UI, Shadcn, Chakra UI, Flowbite, Radix UI
-- **Backend**: JavaScript (ES6+), TypeScript, Python, Java, Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, Prisma, SQL, REST API, JWT, Zod  
-- **Tools**: Visual Studio Code, Git, GitHub, npm, Firebase, Netlify, Vercel, Figma, Postman, Chrome DevTools, React Developer Tools, Bugzilla
-- **Others**: Node Mailer, Stripe Payment, SSLCommerz -->
-
-<div> 
-  <table style="width: 100%; table-layout: fixed;" border="0" cellspacing="10"> 
-    <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>HTML5</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>CSS3</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/>TypeScript</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>React.js</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br/>Next.js</td> 
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br/>Tailwind</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/><br/>Bootstrap</td> 
-     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>Node.js</td>   
-    </tr> 
-    <tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br/>Express</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br/>MongoDB</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python</td>  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br/>Firebase</td> <td align="center"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40"/><br/>Netlify</td> <td align="center"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40"/><br/>Vercel</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>GitHub</td> 
-     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>Git</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/>VS Code</td> 
-    </tr> </table> </div>
-
-### 🚀 What I Do  
-- Build seamless user experiences with **frontend charm**.  
-- Architect robust systems with **backend muscle**.  
-- Focus on simplicity, scalability, and maintainability.  
-
-### 📫 Let’s Connect  
-<p align="left">
-  <a href="https://wa.me/8801728976379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rakibul-98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibul-98" height="30" width="40" /></a>
-<a href="https://fb.com/rakibul.rupom2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibul.rupom2001" height="30" width="40" /></a>
-<a href="https://medium.com/@rakibul-98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rakibul-98" height="30" width="40" /></a>
-<a href="https://www.rakibulhasandev.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.rakibulhasandev.com/" height="30" width="40" /></a>
+<p align="center">
+  Full-Stack Engineer | Building scalable web apps
 </p>
 
-## 📊 GitHub Stats
+```typescript
+const rakibul = {
+  name:      "Md Rakibul Hasan",
+  role:      "Full-Stack Engineer",
+  location:  "Dhaka, Bangladesh 🇧🇩",
+  focus:     ["TypeScript", "Next.js", "Node.js", "PostgreSQL"],
+  status:    "Open to full-time & remote opportunities",
+  highlight: "Codeforces Specialist ⚡",
+};
+```
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibul-98&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats) -->
+## About
+
+Full-stack engineer with **2+ years of production experience** building SaaS platforms, dealer management systems, and AI-integrated web apps. I've led a 6-engineer frontend team, designed Hybrid RBAC securing 50+ endpoints, and shipped products used by 1,000+ users.
+
+Strong algorithmic foundation from competitive programming, **Codeforces Specialist** rank. I write TypeScript-first code, think in systems, and care about the engineering decisions behind every feature.
+
+Currently seeking **full-time roles in Bangladesh** and **remote contracts globally**.
 
 
+## Featured projects
 
+> Pinned repos below. Here's the context behind each one.
+
+| Project | What makes it interesting | Stack |
+|---------|--------------------------|-------|
+| **[VaultStack](https://saas-storage.rakibulhasandev.com)** | Subscription enforcement engine, every file/folder action validates 6 plan limits (folder depth, file types, quota, size) before execution. Cyclic folder-move prevention via tree traversal. | Next.js · Prisma · PostgreSQL · Neon · Cloudinary |
+| **[Bebshaye](https://bebshaye.vercel.app)** | Dealer management SaaS replacing paper-based order-to-cash for BD SMBs. Real-time inventory, automated calculations, 3-role RBAC dashboards. Reduced order processing time by 70%. | Next.js · TypeScript · Redux · Express · MongoDB |
+| **[Newsynk](https://personal-hud-client.vercel.app)** | AI-driven news aggregator with DeepSeek LLM summaries. Personalised ranking, custom source management. 70% reading time reduction, 45% session duration increase. | Next.js · React Query · DeepSeek API · Vercel |
+| **[House Finder](https://house-finder-rakibul.vercel.app)** | Rental listing platform with JWT auth, Stripe payments, MongoDB aggregation pipelines for location-based search, and real-time email notifications. | Next.js · TypeScript · Node.js · MongoDB · Stripe |
+
+
+## Work
+
+**Full-Stack Developer @ Obeo Ltd** *(Oct 2025 - Present)*
+Designed Hybrid RBAC (8+ permission levels, 3 authority tiers, 50+ secured endpoints). Led 6-engineer frontend team on a production Property Management System, 35% deployment velocity improvement.
+
+**Junior Web Developer @ Express IT** *(Sep 2024 - Mar 2025)*
+Delivered 8+ full-stack Next.js + MongoDB apps for SMB clients, 15% ahead of timeline. Integrated Stripe, Nodemailer, Google Maps APIs.
+
+**Intern Developer @ Systemic Altruism** *(Mar 2024 - Jul 2024)*
+Built 20+ reusable TypeScript React components, accelerating team cycles by 25%. Contributed to 3 shipped production features.
+
+
+## Stack
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-111827?style=flat-square&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Testing**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/RTL-E33332?style=flat-square&logo=testing-library&logoColor=white)
+
+
+## GitHub stats
+
+<!-- <div align="">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rakibul-98&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=1A56DB&icon_color=1A56DB&text_color=374151&bg_color=ffffff" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul-98&layout=compact&theme=default&hide_border=true&title_color=1A56DB&text_color=374151&bg_color=ffffff&hide=javascript,css,html" />
+
+</div> -->
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rakibul-98&theme=default&hide_border=true&stroke=1A56DB&ring=1A56DB&fire=1A56DB&currStreakLabel=1A56DB&sideLabels=374151&dates=6B7280&background=ffffff" />
+
+</div>
+
+
+## Achievements
+
+- 🏆 **Codeforces Specialist** - competitive programming rank via contest participation
+- 🥇 **Poster Presentation Award** - top 5 of 100+ participants, BSc ICT Fest 2025
+- 🎓 **HackerRank Intermediate Certifications** - React, JavaScript, CSS, REST API, Node.js
+- 📌 **Top Performer** - Collaborative Development Projects, Green University capstone
+
+
+## Let's connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rakibulhasandev.com-1A56DB?style=flat-square&logo=safari&logoColor=white)](https://www.rakibulhasandev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rakibul--98-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibul-98)
+[![Email](https://img.shields.io/badge/Email-rakibul.hasan.private%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rakibul.hasan.private@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801728976379-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801728976379)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=80&section=footer" width="100%"/>
+
+</div>
